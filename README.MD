@@ -12,7 +12,7 @@ If you don't do the above the functions like button clicks will fail.
 
 ### Accessing the Shortcut ###
 
-The shortcut is available by clicking the link here https://www.icloud.com/shortcuts/50541fbd1fc04c5d9fe119ac11a25361
+The shortcut is available by clicking the link here https://www.icloud.com/shortcuts/64321c2a89ce429a83922b7eaa682941 and then clicking on "Get Shortcut"
 
 ### Running the Shortcut ###
 
@@ -20,7 +20,7 @@ First of all, open Safari, and login to Xero. Whatever organisation you want to 
 
 If you are testing this in the Demo Organisation make sure you post a payrun for the current month or the last report will fail. 
 
-Once you are on the page, go to the shortcut and click "Run"
+Once you are on the page, open  the shortcut in the shortcuts app and click "Run"
 
 ### Results ###
 
