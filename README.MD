@@ -26,6 +26,10 @@ Once you are on the page, open  the shortcut in the shortcuts app and click "Run
 
 You should see the browser automatically download each report to your downloads
 
+### Javascript for Browser automation ###
+
+The javascript although visible in the Apple shortcut is also available here for review https://github.com/growthwise/apple_shortcut_example/blob/main/browser_automation.js
+
 ### Our Youtube Channel ###
 
 If you've liked this example we'd love it if you go to our Youtube channel and hit the Subscribe button https://www.youtube.com/@growthwise
